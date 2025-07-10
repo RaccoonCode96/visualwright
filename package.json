@@ -1,0 +1,19 @@
+{
+  "name": "visual-playwright-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext ts,tsx,js,jsx",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.30.1",
+    "eslint-config-prettier": "^10.0.1",
+    "prettier": "^3.6.2"
+  }
+}
